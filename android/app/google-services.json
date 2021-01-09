@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209835854925",
+    "project_id": "story-time-5c813",
+    "storage_bucket": "story-time-5c813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209835854925:android:083b1f71a60d323a81e004",
+        "android_client_info": {
+          "package_name": "com.hungryreaper.story_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209835854925-vod1uq8s12irlfq53b40uk46fa8kc31m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfeBznhbDqjiEaKOag1rTOHvmBRtUIqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209835854925-vod1uq8s12irlfq53b40uk46fa8kc31m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
